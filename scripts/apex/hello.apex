@@ -9,4 +9,5 @@ string tempvar = 'Enter_your_name_here';
 System.debug('Hello World!');
 System.debug('My name is ' + tempvar);
 System.debug('Master change commit');
-System.debug('Added by Feature-C');
+System.debug('Push change to remote GitHub');
+
