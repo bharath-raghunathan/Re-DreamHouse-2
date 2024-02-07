@@ -11,3 +11,4 @@ System.debug('My name is ' + tempvar);
 System.debug('Git test 1')
 System.debug('Added by Feature-A branch');
 System.debug('Post commit Feature-A changes');
+System.debug('Added by Feature-C');
